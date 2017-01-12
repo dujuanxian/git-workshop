@@ -1,10 +1,14 @@
-ul {
-	width: 300px;
-	list-style: none;
+table { 
+	border-collapse: collapse; 
 }
-li img{
-	display: inline-block;
+
+td, tr  { 
+	padding: 0px; 
+	margin: 0px; 
+	border: none; 
+}
+
+td {
 	width: 100px;
 	height: 100px;
-	float: left;
 }
